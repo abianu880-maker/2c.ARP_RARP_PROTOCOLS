@@ -18,7 +18,6 @@ stored.
 P
 ## Program-ARP
 ## Server:
-
 ```
 
 import socket
